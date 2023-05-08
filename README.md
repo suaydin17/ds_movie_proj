@@ -12,7 +12,7 @@
 **Packages:** pandas, numpy, matplotlib, seaborn, ,,,,,,
 
 ## Data Insight
-The dataset contains information about top 1000 highest grossing movies. Some of the important variables are:
+The dataset contains information about top 1000 highest grossing movies. It initially had 918 rows and 14 columns. Some of the important variables are:
 
 * Titles 
 * Genres
@@ -23,10 +23,24 @@ The dataset contains information about top 1000 highest grossing movies. Some of
 * License
 
 ## Data Cleaning
-Unnamed column is dropped, year info from movie title is omitted, the release date is divided as year and month, then a new column for the age of movie is created. Runtime is converted into minutes and new columns called info_len and genre_num are added. These tasks ensure that the data is clean and ready for analysis.
+* Unnamed column is dropped.
+* Year information from movie title is omitted.
+* Release date column is divided as year and month.
+* A new column for the age of movie is created.
+* Runtime is converted into minutes. 
+* New columns called info_len and genre_num are created. 
+
+These tasks ensure that the data is clean and ready for analysis.
 
 ## Exploratory Data Analysis
-Once the data has been cleaned, I performed exploratory data analysis to gain insights into the dataset. This involves visualizing the data using various plots and charts to understand the relationships between variables, identify trends, and patterns.
+Once the data is cleaned, exploratory data analysis is performed to gain insights into the dataset. This involves visualizing the data using various plots and charts to understand the relationships between variables, identify trends, and patterns.
+
+
+
+
+
+
+
 
 
 Model Building
