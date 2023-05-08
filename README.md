@@ -1,15 +1,13 @@
-# Top 1000 Highest Grossing Movies Data Science Project
+# Top 1000 Highest Grossing Movies Data Analysis Project
 
-## In this project, movie dataset analyzed with the goal of performing data cleaning, exploratory data analysis (EDA) and machine learning model building. 
+## In this project, movie dataset analyzed with the goal of performing data cleaning and  exploratory data analysis (EDA). 
 
 * Top 1000 Highest Grossing Movies dataset in Kaggle is used for this project.
-* A tool to estimate the World Sales in $ for a movie is created.
-
 
 ## Code and Resources Used
 **Python Version:** 3.9
 
-**Packages:** pandas, numpy, matplotlib, seaborn, ,,,,,,
+**Packages:** pandas, numpy, matplotlib, seaborn.
 
 ## Data Insight
 The dataset contains information about top 1000 highest grossing movies. It initially had 918 rows and 14 columns. Some of the important variables are:
@@ -112,13 +110,6 @@ Star Wars movies are not able to continue their success in theaters.
 
 <img src="https://user-images.githubusercontent.com/132287565/236808494-2b8c2f64-186a-4af5-8088-f2ba08308bb7.png" style="width: 50%;" alt="image">
 
-
-
-Model Building
-Finally, we will build a model to predict worldwide box office sales based on various features such as budget, genre, production company, and release date. We will evaluate the model's performance and make recommendations based on the results.
-
-Conclusion
-Overall, this project will provide a comprehensive analysis of the movie dataset, including data cleaning, exploratory data analysis, and model building. By the end of the project, we will have gained valuable insights into the movie industry and developed a model that can be used to predict worldwide box office sales.
 
 
 
