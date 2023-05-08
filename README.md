@@ -111,7 +111,7 @@ Star Wars movies are not able to continue their success in theaters.
 <img src="https://user-images.githubusercontent.com/132287565/236808494-2b8c2f64-186a-4af5-8088-f2ba08308bb7.png" style="width: 50%;" alt="image">
 
 ## Model Building
-Although the dataset is not convenient for performing machine learning models, a linear regression model to preidct World Sales of a movie is tried. Independent variables are chosen as 'Domestic Sales (in $)', 'International Sales (in $)', 'Total Runtime (min)' and dependent variable is 'World Sales (in $)'. The model gives the mean cross-validation score of 0.978114891464618.
+Although the dataset is not convenient for performing machine learning models, a linear regression model to preidct World Sales of a movie is tried. Independent variables are chosen as Domestic Sales, International Sales, Total Runtime, and dependent variable is World Sales. The model gives the mean cross-validation score of 0.978114891464618.
 
 
 
